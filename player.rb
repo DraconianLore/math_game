@@ -1,4 +1,4 @@
-class Player # create a player entity(player1 and player2) initialize them with 3 lives
+class Player # create a player entity(player1 and player2)
     def initialize(name)  # set initial stats
         @name = name
     end    
